@@ -2,7 +2,7 @@ build:
   version: "11.0"
 
 cards:
-  message: "Welcome to EazyBank cards related to webhooks APIs"
+  message: "Welcome to EazyBank cards related to docker APIs"
   contactDetails:
     name: "Akshay Jangwal - Product Owner"
     email: "akshayjangwal@gmail.com"
